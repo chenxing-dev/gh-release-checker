@@ -9,10 +9,9 @@
 
 ## Installation 💻
 
-### Manual Installation (recommended)
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/gh-release-checker.git
+git clone https://github.com/chenxing-dev/gh-release-checker.git
 cd gh-release-checker
 ```
 
@@ -24,11 +23,6 @@ sudo pacman -S curl jq libnotify
 3. Make the script executable:
 ```bash
 chmod +x gh-release-checker
-```
-
-### From AUR
-```bash
-yay -S gh-release-checker
 ```
 
 ## Configuration ⚙️
